@@ -7,7 +7,7 @@ import { GoogleAuthProvider } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCvr1yLUPsSuKYjk599vh4OBmT1LtUquwM",
+  apiKey: "Enter your api key",
   authDomain: "reddit-2d3bc.firebaseapp.com",
   projectId: "reddit-2d3bc",
   storageBucket: "reddit-2d3bc.appspot.com",
